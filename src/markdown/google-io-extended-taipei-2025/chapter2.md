@@ -8,7 +8,7 @@ summary: "開啟 Google Cloud Shell 編輯器進行後續開發、部署作業"
 ## 步驟 1：啟動 Cloud Shell
 1. 登入 [Google Cloud Console](https://console.cloud.google.com)。
 2. 在右上角工具列，點擊 **Cloud Shell** 圖示，啟動交互式終端機。
-![Cloud Shell 啟動 [hint: cloud console]](/images/chapter2/google-cloud-console-activate-shell.png)
+![Cloud Shell 啟動 [hint: cloud console]](/edumon/images/chapter2/google-cloud-console-activate-shell.png)
 
 ## 步驟 2：開啟 Cloud Shell Editor
 1. 在 Cloud Shell 視窗的工具列，點擊**Open Editor**。
