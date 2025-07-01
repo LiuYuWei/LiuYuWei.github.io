@@ -20,8 +20,8 @@ import typescript from 'react-syntax-highlighter/dist/esm/languages/prism/typesc
 import yaml from 'react-syntax-highlighter/dist/esm/languages/prism/yaml';
 
 // Theme imports for syntax highlighting
-import { oneDark } from 'react-syntax-highlighter/dist/esm/styles/prism/one-dark';
-import { oneLight } from 'react-syntax-highlighter/dist/esm/styles/prism/one-light';
+import { oneDark } from 'react-syntax-highlighter/dist/esm/styles/prism';
+import { oneLight } from 'react-syntax-highlighter/dist/esm/styles/prism';
 
 // Register languages
 SyntaxHighlighter.registerLanguage('bash', bash);
